@@ -35,7 +35,7 @@ class Rover{
 		if(is_int($x)){
 			$this->x = $x;
 		}
-		if(is_int($x)){
+		if(is_int($y)){
 			$this->y = $y;
 		}
 		//aqui checamos se a face esta setada para um posição valida, ou seja, se for, norte, sul, leste, ou oeste, ele seta, se não, seta norte, por padrao
